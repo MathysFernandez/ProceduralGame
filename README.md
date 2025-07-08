@@ -56,7 +56,7 @@ The gameplay is fluid and fast, with a dynamic atmosphere.
 
 ## Visuals
 
-*(Screenshots will be added here later.)*
+![Image présentation](picture/presentation.png)
 
 
 ## Project Status
