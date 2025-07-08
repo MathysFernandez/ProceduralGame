@@ -3,86 +3,62 @@
 
 ## Description
 
-ProceduralGame est un jeu de plateforme en 2D développé avec Python et Pygame.
-Notre projet se concentre sur la création procédurale du terrain : à chaque partie, le sol est généré de manière aléatoire avec de petites montées et descentes, rendant chaque partie unique.
+ProceduralGame is a 2D platformer developed using Python and Pygame.
+Our project focuses on **procedural terrain generation**: in each game, the ground is randomly generated with small ascents and descents, making every play-through unique.
 
-Le joueur contrôle un slime qui doit collecter le maximum de déchets.
+The player controls a slime that must collect as much trash as possible.
 
-Le slime change de couleur selon des touches secrets (EasterEgg):
-* Bleu : état normal
-* Rouge : en colère
-* Gris : mort
+The slime changes color based on secret key presses (Easter Eggs):
+* **Blue**: Normal state
+* **Red**: Angry
+* **Gray**: Dead
 
-Le gameplay est fluide et rapide, avec une ambiance dynamique.
-
-
-## Fonctionnalités principales
-
-* Génération procédurale du terrain (sol qui varie en hauteur).
-* Personnage principal : un slime avec changement de couleur selon l'état
-* Collecte de déchets dispersées sur le terrain
+The gameplay is fluid and fast, with a dynamic atmosphere.
 
 
-## Dépendances
+## Key Features
 
-* Python (la version la plus récente)
-* Pygame    avec la commande ```pip install pygame```
+* **Procedural terrain generation** (ground varying in height).
+* **Main character**: A slime with color changes based on its state.
+* **Trash collection** scattered across the terrain.
 
+
+## Dependencies
+
+* **Python** (latest version)
+* **Pygame** (install with the command `pip install pygame`)
 
 ## Installation
 
-1. Clonez ce dépôt :
+1.  **Clone this repository**:
 
-    ```git clone https://gitlab.univ-lr.fr/l1-2024-2025/infinite/proceduralgame.git```
+    ```[https://github.com/MathysFernandez/ProceduralGame.git](https://github.com/MathysFernandez/ProceduralGame.git)```
 
-2. Lancez le jeu avec :
+2.  **Run the game** with:
 
     ```main.py```
 
 
-## Comment jouer
+## How to Play
 
-* **Déplacez** le slime avec les touches directionnelles.
-    * **Z** : sauter
-    * **Q** : Aller à gauche
-    * **D** : Aller à droite
-    * Avec les **Flèches** aussi
+* **Move** the slime with the directional keys:
+    * **Z**: Jump
+    * **Q**: Move left
+    * **D**: Move right
+    * Also with the **Arrow keys**
 
-* **Collectez** un maximum de déchets pour gagner la partie.
+* **Collect** as much trash as possible to win the game.
 
-* **Évitez** de rester bloqué.
+* **Avoid** getting stuck.
 
-ℹ️ *(Les contrôles et mécaniques précises évolueront au fur et à mesure du développement.)*
-
-
-## Visuels
-
-*(Screenshots seront ajoutés ici plus tard.)*
-
-## Wiki
-
-Vous pouvez lire notre wiki :
-
-* [Home](https://gitlab.univ-lr.fr/l1-2024-2025/infinite/proceduralgame/-/wikis/home)
-
-* [Bilan](https://gitlab.univ-lr.fr/l1-2024-2025/infinite/proceduralgame/-/wikis/Bilan)
-
-## Auteurs
-
-* Mathys Fernandez
-* Jordan Martin
-* Mathis Grasset
-* Harinavalona Ratsimbazafy
-* Junior Zambrano
+ℹ️ *(Controls and precise mechanics will evolve as development progresses.)*
 
 
-## Licence
+## Visuals
 
-Ce projet est développé uniquement à des fins éducatives.
-
-
-## Statut du projet
-
-🚧 Développement en cours 🚧
+*(Screenshots will be added here later.)*
 
 
+## Project Status
+
+🚧 Development in progress 🚧
